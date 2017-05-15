@@ -1,5 +1,5 @@
 {
-    "name": "ev/ev-powerpoint-bundle",
+    "name": "holtz-mb/fork-ev-powerpoint-bundle",
     "type": "symfony-bundle",
     "description": "This is a Symfony2 Bundle helps you to read and write PowerPoint files, thanks to the PHPPowerPoint library",
     "keywords": ["powerpoint", "phpoffice", "pptx", "ppt", "odp", "presentations", "bundle"],
@@ -15,7 +15,7 @@
             
     "require": {
         "php":                          ">=5.3.3",
-        "symfony/framework-bundle":     "~2.0",
+        "symfony/framework-bundle":     "~3.0",
         "phpoffice/phppresentation": "0.6.0"
     },
 
