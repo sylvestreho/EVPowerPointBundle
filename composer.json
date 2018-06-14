@@ -1,7 +1,7 @@
 {
-    "name": "holtz-mb/fork-ev-powerpoint-bundle",
+    "name": "sylvestreho/fork-ev-powerpoint-bundle",
     "type": "symfony-bundle",
-    "description": "This is a Symfony2 Bundle helps you to read and write PowerPoint files, thanks to the PHPPowerPoint library",
+    "description": "This is a Symfony3 Bundle helps you to read and write PowerPoint files, thanks to the PHPPowerPoint library",
     "keywords": ["powerpoint", "phpoffice", "pptx", "ppt", "odp", "presentations", "bundle"],
     "homepage": "http://github.com/evalandgo/EVPowerPointBundle",
     "license": "MIT",
@@ -16,7 +16,7 @@
     "require": {
         "php":                          ">=5.3.3",
         "symfony/framework-bundle":     "~3.0",
-        "phpoffice/phppresentation": "0.6.0"
+        "phpoffice/phppresentation": "0.9.0"
     },
 
     "autoload": {
